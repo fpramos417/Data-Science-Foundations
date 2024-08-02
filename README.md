@@ -1,6 +1,6 @@
 # Data-Science-Foundations
 
-##Linear Regression
+## Linear Regression
 Predicts a number (like how tall you'll be based on your parents' height). Use it for house prices, stock values. Libraries: Scikit-learn. Buzzwords: correlation, coefficient.
 Linear regression finds the best straight line through data points by minimizing the total squared distance between the line and the points, akin to stretching a rubber band over nails on a board to find the tightest fit.
 
